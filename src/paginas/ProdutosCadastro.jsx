@@ -5,10 +5,6 @@ import Paper from '@material-ui/core/Paper';
 import Title from '../helpers/Title';
 import TextField from '@material-ui/core/TextField';
 import Button from '@material-ui/core/Button';
-import PegaId from '../helpers/PegaId';
-
-// Dados
-import Produtos from '../database_mockup/Produtos';
 
 
 const useStyles = makeStyles(theme => ({

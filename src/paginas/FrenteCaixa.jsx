@@ -13,11 +13,10 @@ import Typography from '@material-ui/core/Typography';
 import Title from '../helpers/Title';
 import Moeda from '../helpers/Moeda';
 import Hoje from '../helpers/Hoje';
-import PegaId from '../helpers/PegaId';
 
 // Dados
 import Vendas   from '../database_mockup/Vendas';
-import Produtos from '../database_mockup/Produtos';
+
 
 const useStyles = makeStyles(theme => ({
   paper: {
